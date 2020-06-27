@@ -1,4 +1,6 @@
 # Periodic-Table-JSON
+from https://github.com/Bowserinator/Periodic-Table-JSON.
+
 A json of the entire periodic table. Feel free to use it in your projects.
 
 Temperatures such as boiling points and melting points are given in degrees kelvin.  Densities are given in g/l for gases and g/cm³ for solids and liquids and molar heat in (mol*K).
